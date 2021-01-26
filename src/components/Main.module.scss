@@ -1,13 +1,6 @@
 .main {
     display: flex;
-    min-height: 100vh;
-
-    .sidebar {
-        flex: 0 0 240px;
-        background-color: lightblue;
-        padding: 10px;
-    }
-
+    min-height: 100%;
     .content {
         flex: 1;
         padding: 40px;
